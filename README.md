@@ -6,10 +6,12 @@ Data-Structures-and-Algorithms in CPP
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Counting
 |  |
 | ------- |
