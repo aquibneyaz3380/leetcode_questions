@@ -38,6 +38,7 @@ Data-Structures-and-Algorithms in CPP
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -102,4 +103,8 @@ Data-Structures-and-Algorithms in CPP
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
