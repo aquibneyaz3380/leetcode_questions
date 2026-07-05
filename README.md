@@ -110,4 +110,9 @@ Data-Structures-and-Algorithms in CPP
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0061-rotate-list](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0061-rotate-list) |
+## Linked List
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->
