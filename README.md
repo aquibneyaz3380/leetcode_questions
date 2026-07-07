@@ -117,4 +117,8 @@ Data-Structures-and-Algorithms in CPP
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0061-rotate-list) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
