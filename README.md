@@ -129,4 +129,8 @@ Data-Structures-and-Algorithms in CPP
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0206-reverse-linked-list) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
