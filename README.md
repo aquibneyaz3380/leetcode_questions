@@ -48,6 +48,7 @@ Data-Structures-and-Algorithms in CPP
 | [0073-set-matrix-zeroes](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1288-remove-covered-intervals](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1288-remove-covered-intervals) |
@@ -87,6 +88,7 @@ Data-Structures-and-Algorithms in CPP
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1288-remove-covered-intervals) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -134,6 +136,7 @@ Data-Structures-and-Algorithms in CPP
 ## Math
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3658-gcd-of-odd-and-even-sums) |
