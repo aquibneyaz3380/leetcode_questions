@@ -38,6 +38,7 @@ Data-Structures-and-Algorithms in CPP
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0486-predict-the-winner) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -53,6 +54,7 @@ Data-Structures-and-Algorithms in CPP
 | [0073-set-matrix-zeroes](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0283-move-zeroes](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0283-move-zeroes) |
+| [0486-predict-the-winner](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
@@ -147,6 +149,7 @@ Data-Structures-and-Algorithms in CPP
 ## Math
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -158,6 +161,7 @@ Data-Structures-and-Algorithms in CPP
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0486-predict-the-winner) |
 ## Enumeration
 |  |
 | ------- |
@@ -191,4 +195,8 @@ Data-Structures-and-Algorithms in CPP
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
