@@ -11,6 +11,7 @@ Data-Structures-and-Algorithms in CPP
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
 |  |
@@ -66,6 +67,7 @@ Data-Structures-and-Algorithms in CPP
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3731-find-missing-elements](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
 |  |
@@ -107,6 +109,7 @@ Data-Structures-and-Algorithms in CPP
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3731-find-missing-elements) |
 ## Breadth-First Search
 |  |
 | ------- |
