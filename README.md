@@ -207,4 +207,12 @@ Data-Structures-and-Algorithms in CPP
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0486-predict-the-winner) |
+## Minimax
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0486-predict-the-winner) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
