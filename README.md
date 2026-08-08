@@ -39,6 +39,7 @@ Data-Structures-and-Algorithms in CPP
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0486-predict-the-winner) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
@@ -52,6 +53,7 @@ Data-Structures-and-Algorithms in CPP
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0283-move-zeroes](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0283-move-zeroes) |
@@ -72,6 +74,7 @@ Data-Structures-and-Algorithms in CPP
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
