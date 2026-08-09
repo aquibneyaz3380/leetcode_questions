@@ -41,11 +41,13 @@ Data-Structures-and-Algorithms in CPP
 | ------- |
 | [0053-maximum-subarray](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0486-predict-the-winner](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1140-stone-game-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1140-stone-game-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -62,6 +64,7 @@ Data-Structures-and-Algorithms in CPP
 | [0628-maximum-product-of-three-numbers](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1140-stone-game-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -160,6 +163,7 @@ Data-Structures-and-Algorithms in CPP
 | ------- |
 | [0486-predict-the-winner](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [1140-stone-game-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1140-stone-game-ii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -210,12 +214,15 @@ Data-Structures-and-Algorithms in CPP
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1140-stone-game-ii) |
 ## Minimax
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1140-stone-game-ii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0486-predict-the-winner) |
+| [1140-stone-game-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
