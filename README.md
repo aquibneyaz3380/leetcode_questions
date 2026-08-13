@@ -60,6 +60,7 @@ Data-Structures-and-Algorithms in CPP
 | [0031-next-permutation](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0283-move-zeroes](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0283-move-zeroes) |
 | [0486-predict-the-winner](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0486-predict-the-winner) |
@@ -213,6 +214,7 @@ Data-Structures-and-Algorithms in CPP
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0078-subsets) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Counting Sort
 |  |
@@ -233,4 +235,8 @@ Data-Structures-and-Algorithms in CPP
 | ------- |
 | [0486-predict-the-winner](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1140-stone-game-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
