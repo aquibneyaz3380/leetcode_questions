@@ -13,6 +13,7 @@ Data-Structures-and-Algorithms in CPP
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## String
@@ -28,6 +29,7 @@ Data-Structures-and-Algorithms in CPP
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -105,6 +107,7 @@ Data-Structures-and-Algorithms in CPP
 | [1004-max-consecutive-ones-iii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Greedy
 |  |
 | ------- |
