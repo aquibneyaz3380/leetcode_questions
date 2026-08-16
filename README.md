@@ -131,6 +131,7 @@ Data-Structures-and-Algorithms in CPP
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
@@ -244,4 +245,16 @@ Data-Structures-and-Algorithms in CPP
 |  |
 | ------- |
 | [0078-subsets](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0078-subsets) |
+## Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0111-minimum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
