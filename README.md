@@ -210,6 +210,7 @@ Data-Structures-and-Algorithms in CPP
 | ------- |
 | [0020-valid-parentheses](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0503-next-greater-element-ii) |
 ## Number Theory
@@ -259,16 +260,19 @@ Data-Structures-and-Algorithms in CPP
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Bucket Sort
 |  |
 | ------- |
