@@ -53,6 +53,7 @@ Data-Structures-and-Algorithms in CPP
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0053-maximum-subarray) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1140-stone-game-ii) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -284,6 +285,7 @@ Data-Structures-and-Algorithms in CPP
 | [0104-maximum-depth-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0199-binary-tree-right-side-view) |
@@ -295,6 +297,7 @@ Data-Structures-and-Algorithms in CPP
 | [0104-maximum-depth-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0199-binary-tree-right-side-view) |
@@ -308,6 +311,7 @@ Data-Structures-and-Algorithms in CPP
 | [0104-maximum-depth-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0199-binary-tree-right-side-view) |
@@ -324,5 +328,6 @@ Data-Structures-and-Algorithms in CPP
 ## DP on Trees
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
