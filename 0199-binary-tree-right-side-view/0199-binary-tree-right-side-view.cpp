@@ -12,15 +12,14 @@
 class Solution {
 public:
     vector<int> rightSideView(TreeNode* root) {
-        vector<int>res;
-        recursion(root,0,res);
-        return res;
+        vector<int>ans;
+        dfs(root,0,ans);
+        return ans;
     }
-    private:
-    void recursion(TreeNode* root,int level,vector<int>&res){
-        if(root==NULL)return;
-        if(res.size()==level)res.push_back(root->val);
-        recursion(root->right,level+1,res);
-        recursion(root->left,level+1,res);
+    void dfs(TreeNode* root,int level, vector<int>&ans){
+    if(root==nullptr)return ;
+    if(ans.size()==level)ans.push_back(root->val);
+    dfs(root->right,level+1,ans);
+    dfs(root->left,level+1,ans);
     }
 };
