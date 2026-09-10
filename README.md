@@ -200,6 +200,7 @@ Data-Structures-and-Algorithms in CPP
 | ------- |
 | [0061-rotate-list](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0061-rotate-list) |
 | [0206-reverse-linked-list](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0206-reverse-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0328-odd-even-linked-list) |
 ## Math
 |  |
 | ------- |
