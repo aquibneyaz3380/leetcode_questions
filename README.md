@@ -79,6 +79,7 @@ Data-Structures-and-Algorithms in CPP
 | [0486-predict-the-winner](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0682-baseball-game) |
 | [0977-squares-of-a-sorted-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1140-stone-game-ii) |
@@ -239,6 +240,7 @@ Data-Structures-and-Algorithms in CPP
 | [0145-binary-tree-postorder-traversal](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0682-baseball-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -338,4 +340,8 @@ Data-Structures-and-Algorithms in CPP
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
