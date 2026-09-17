@@ -10,6 +10,7 @@ Data-Structures-and-Algorithms in CPP
 | [0347-top-k-frequent-elements](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -56,6 +57,7 @@ Data-Structures-and-Algorithms in CPP
 | [0124-binary-tree-maximum-path-sum](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0486-predict-the-winner](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1140-stone-game-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -85,6 +87,7 @@ Data-Structures-and-Algorithms in CPP
 | [1140-stone-game-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1140-stone-game-ii) |
 | [1288-remove-covered-intervals](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1288-remove-covered-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -117,6 +120,7 @@ Data-Structures-and-Algorithms in CPP
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Sliding Window
 |  |
@@ -124,6 +128,7 @@ Data-Structures-and-Algorithms in CPP
 | [0003-longest-substring-without-repeating-characters](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
