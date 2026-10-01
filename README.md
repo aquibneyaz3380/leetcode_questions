@@ -356,4 +356,8 @@ Data-Structures-and-Algorithms in CPP
 | ------- |
 | [0682-baseball-game](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0682-baseball-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3498-reverse-degree-of-a-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
