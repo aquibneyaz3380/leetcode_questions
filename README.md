@@ -26,6 +26,7 @@ Data-Structures-and-Algorithms in CPP
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0020-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0301-remove-invalid-parentheses) |
 | [0443-string-compression](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0443-string-compression) |
 | [1189-maximum-number-of-balloons](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -167,6 +168,7 @@ Data-Structures-and-Algorithms in CPP
 | [0104-maximum-depth-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0199-binary-tree-right-side-view) |
+| [0301-remove-invalid-parentheses](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0301-remove-invalid-parentheses) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -295,6 +297,7 @@ Data-Structures-and-Algorithms in CPP
 |  |
 | ------- |
 | [0078-subsets](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0078-subsets) |
+| [0301-remove-invalid-parentheses](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0301-remove-invalid-parentheses) |
 ## Tree
 |  |
 | ------- |
