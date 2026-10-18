@@ -61,6 +61,7 @@ Data-Structures-and-Algorithms in CPP
 | [0486-predict-the-winner](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1140-stone-game-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Prefix Sum
 |  |
@@ -95,6 +96,7 @@ Data-Structures-and-Algorithms in CPP
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -115,6 +117,7 @@ Data-Structures-and-Algorithms in CPP
 | ------- |
 | [0053-maximum-subarray](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -181,6 +184,7 @@ Data-Structures-and-Algorithms in CPP
 ## Union-Find
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -226,6 +230,7 @@ Data-Structures-and-Algorithms in CPP
 | [0486-predict-the-winner](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1140-stone-game-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1927-sum-game](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1927-sum-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -319,6 +324,7 @@ Data-Structures-and-Algorithms in CPP
 | [0199-binary-tree-right-side-view](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -347,6 +353,7 @@ Data-Structures-and-Algorithms in CPP
 | [0199-binary-tree-right-side-view](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -369,4 +376,20 @@ Data-Structures-and-Algorithms in CPP
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0020-valid-parentheses) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
