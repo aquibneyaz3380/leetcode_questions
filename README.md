@@ -66,6 +66,7 @@ Data-Structures-and-Algorithms in CPP
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1140-stone-game-ii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -88,6 +89,7 @@ Data-Structures-and-Algorithms in CPP
 | [0503-next-greater-element-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1004-max-consecutive-ones-iii) |
