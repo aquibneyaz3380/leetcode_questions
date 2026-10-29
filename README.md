@@ -5,6 +5,7 @@ Data-Structures-and-Algorithms in CPP
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
@@ -80,6 +81,7 @@ Data-Structures-and-Algorithms in CPP
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0053-maximum-subarray) |
