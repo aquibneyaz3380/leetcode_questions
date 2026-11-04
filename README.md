@@ -32,6 +32,7 @@ Data-Structures-and-Algorithms in CPP
 | [0003-longest-substring-without-repeating-characters](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0020-valid-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0301-remove-invalid-parentheses) |
+| [0412-fizz-buzz](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0443-string-compression) |
 | [1189-maximum-number-of-balloons](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
@@ -257,6 +258,7 @@ Data-Structures-and-Algorithms in CPP
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0189-rotate-array) |
+| [0412-fizz-buzz](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0486-predict-the-winner](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0486-predict-the-winner) |
@@ -408,6 +410,7 @@ Data-Structures-and-Algorithms in CPP
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0682-baseball-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
