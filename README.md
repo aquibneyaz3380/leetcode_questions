@@ -56,6 +56,7 @@ Data-Structures-and-Algorithms in CPP
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
+| [1267-count-servers-that-communicate](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1267-count-servers-that-communicate) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -108,6 +109,7 @@ Data-Structures-and-Algorithms in CPP
 | [1004-max-consecutive-ones-iii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
+| [1267-count-servers-that-communicate](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1288-remove-covered-intervals) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -210,12 +212,14 @@ Data-Structures-and-Algorithms in CPP
 | [0199-binary-tree-right-side-view](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0199-binary-tree-right-side-view) |
 | [0301-remove-invalid-parentheses](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0301-remove-invalid-parentheses) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1267-count-servers-that-communicate) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Union-Find
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -230,6 +234,7 @@ Data-Structures-and-Algorithms in CPP
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0073-set-matrix-zeroes) |
+| [1267-count-servers-that-communicate](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1267-count-servers-that-communicate) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -380,6 +385,7 @@ Data-Structures-and-Algorithms in CPP
 | [0199-binary-tree-right-side-view](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0662-maximum-width-of-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1267-count-servers-that-communicate) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
