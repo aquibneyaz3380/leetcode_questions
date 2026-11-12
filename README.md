@@ -94,6 +94,7 @@ Data-Structures-and-Algorithms in CPP
 | [0073-set-matrix-zeroes](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
@@ -192,6 +193,7 @@ Data-Structures-and-Algorithms in CPP
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0347-top-k-frequent-elements](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -258,6 +260,7 @@ Data-Structures-and-Algorithms in CPP
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0443-string-compression) |
