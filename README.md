@@ -122,6 +122,7 @@ Data-Structures-and-Algorithms in CPP
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -281,6 +282,7 @@ Data-Structures-and-Algorithms in CPP
 | [1248-count-number-of-nice-subarrays](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1927-sum-game](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1927-sum-game) |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -318,6 +320,7 @@ Data-Structures-and-Algorithms in CPP
 ## Number Theory
 |  |
 | ------- |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Design
 |  |
@@ -458,4 +461,12 @@ Data-Structures-and-Algorithms in CPP
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 <!---LeetCode Topics End-->
