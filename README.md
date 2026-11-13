@@ -67,6 +67,7 @@ Data-Structures-and-Algorithms in CPP
 | ------- |
 | [0053-maximum-subarray](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0152-maximum-product-subarray](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0152-maximum-product-subarray) |
 | [0486-predict-the-winner](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0486-predict-the-winner) |
 | [1140-stone-game-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1140-stone-game-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -96,6 +97,7 @@ Data-Structures-and-Algorithms in CPP
 | [0078-subsets](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0088-merge-sorted-array) |
+| [0152-maximum-product-subarray](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
