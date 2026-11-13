@@ -10,6 +10,7 @@ Data-Structures-and-Algorithms in CPP
 | [0073-set-matrix-zeroes](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0073-set-matrix-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0424-longest-repeating-character-replacement) |
+| [0645-set-mismatch](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0930-binary-subarrays-with-sum) |
 | [1189-maximum-number-of-balloons](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1189-maximum-number-of-balloons) |
@@ -103,6 +104,7 @@ Data-Structures-and-Algorithms in CPP
 | [0486-predict-the-winner](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0486-predict-the-winner) |
 | [0503-next-greater-element-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0904-fruit-into-baskets) |
@@ -197,6 +199,7 @@ Data-Structures-and-Algorithms in CPP
 | [0347-top-k-frequent-elements](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1288-remove-covered-intervals) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -338,6 +341,7 @@ Data-Structures-and-Algorithms in CPP
 |  |
 | ------- |
 | [0078-subsets](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0078-subsets) |
+| [0645-set-mismatch](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0645-set-mismatch) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
