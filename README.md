@@ -42,6 +42,7 @@ Data-Structures-and-Algorithms in CPP
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1927-sum-game) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -441,6 +442,7 @@ Data-Structures-and-Algorithms in CPP
 | [0412-fizz-buzz](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0682-baseball-game) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3498-reverse-degree-of-a-string) |
 ## Bracket Sequences
 |  |
