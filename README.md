@@ -22,6 +22,7 @@ Data-Structures-and-Algorithms in CPP
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -47,6 +48,7 @@ Data-Structures-and-Algorithms in CPP
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -133,6 +135,7 @@ Data-Structures-and-Algorithms in CPP
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -390,6 +393,7 @@ Data-Structures-and-Algorithms in CPP
 | [0543-diameter-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -405,6 +409,7 @@ Data-Structures-and-Algorithms in CPP
 | [0543-diameter-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/aquibneyaz3380/leetcode_questions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
